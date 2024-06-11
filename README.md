@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prashant
-- 👀 I’m interested in Web Development and Software Developement
-- 🌱 I’m currently learning React Js
+- 👀 I’m interested in WordPress Development,Web Development and Full Stack.
+
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
